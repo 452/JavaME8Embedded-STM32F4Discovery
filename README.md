@@ -5,6 +5,10 @@ Java ME 8 Embedded and STM32F4Discovery
 
 this is example of project - use NetBeans and Java ME 8 Early Access SDK
 
+STM32F4Discovery binary with Oracle JMEE 8.0-EA - for test
+
+https://github.com/452/JavaME8Embedded-STM32F4Discovery/blob/master/oracle-jmee-8-0-ea-stmf4disc-rtx-bin.zip
+
 
 http://www.oracle.com/technetwork/java/javame/index.html
 
